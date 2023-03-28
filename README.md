@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**gauravthedeveloper/gauravthedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Gourab Modak</h1>
 <h3 align="center">I am an aspiring competitive programmer with curiosity towards Open Source. I am a practical student of computer science always ready to jump into a problem and dive deep. When I am not working, I like to write essays, play chess and learn French.</h3>
 
@@ -31,6 +15,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/gourabmodak28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gourabmodak28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gourabmodak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourabmodak" height="30" width="40" /></a>
+<a href="https://fb.com/gourabmodak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gourabmodak07" height="30" width="40" /></a>
+<a href="https://instagram.com/gauravshines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravshines" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sectumsempra07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sectumsempra07" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sectumsempra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sectumsempra07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sectumsempra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sectumsempra07" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sectumsempra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sectumsempra07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
