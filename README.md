@@ -1,4 +1,4 @@
-<img title="a title" alt="Alt text" src="Banner.jpg">
+<img title="a title" alt="Alt text" src="Cover.bmp">
 <h1 align="center">Hi 👋, I'm Gourab Modak</h1>
 <h3 align="center">I am an aspiring competitive programmer with curiosity towards Open Source. I am a practical student of computer science always ready to jump into a problem and dive deep. When I am not working, I like to write essays, play chess and learn French.</h3>
 
